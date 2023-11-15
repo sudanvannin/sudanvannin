@@ -1,16 +1,16 @@
 # Felipe Sudan
 
 ## Sobre Mim
-- 👋 Estou atualmente cursando o quinto semestre de Sistemas de Informação na PUC Minas.
-- 👀 Estou interessado em oportunidades de estágio na área de tecnologia, com foco em C# e .NET.
-- 🌱 Atualmente estou aprimorando minhas habilidades em C# e .NET, além de estudar outras tecnologias relacionadas.
+-  Estou atualmente cursando o quinto semestre de Sistemas de Informação na PUC Minas.
+- Estou interessado em oportunidades de estágio na área de tecnologia, com foco em C# e .NET.
+-  Atualmente estou aprimorando minhas habilidades em C# e .NET, além de estudar outras tecnologias relacionadas.
 
 ## Habilidades Técnicas
 - Linguagens: C#, .NET, ASP .NET CORE
 
 
 ## Contato
-- 📫 Como entrar em contato comigo: felipe.sudan@hotmail.com
+- Como entrar em contato comigo: felipe.sudan@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/felipe-sudan-177874153/
 
 ## Busca por Oportunidades
