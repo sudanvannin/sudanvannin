@@ -1,6 +1,7 @@
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=sudanvannin&show_icons=true&theme=dracula&count_private=true)
+
+
 
 ## Tecnologias que eu gosto 
 <div style="display: inline_block">
