@@ -5,7 +5,7 @@
 - Estou interessado em oportunidades de estágio na área de tecnologia, com foco em C# e .NET.
 
 ## Habilidades Técnicas
-- Linguagens: C#, .NET, ASP .NET CORE
+- Linguagens: C#, .NET, ASP .NET CORE, JAVASCRIPT, TYPESCRIPT, HTML, CSS
 
 
 ## Contato
