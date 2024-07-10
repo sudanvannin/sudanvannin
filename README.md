@@ -12,11 +12,6 @@
 - Como entrar em contato comigo: felipe.sudan@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/felipe-sudan-177874153/
 
-## Busca por Oportunidades
-- Estou em busca de oportunidades de estágio.
-
-
-
 
 ## Tecnologias que eu gosto 
 <div style="display: inline_block">
