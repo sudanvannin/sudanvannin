@@ -8,7 +8,7 @@ Data Engineering Intern @ Localiza&Co | Estudante de Sistemas de Informação
 <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-👋 Sobre Mim
+
 Estudante do oitavo semestre de Sistemas de Informação na PUC Minas, atualmente trabalhando como Estagiário de Engenharia de Dados na Localiza&Co.
 
 Nesta função, estou aplicando meus conhecimentos acadêmicos em um ambiente corporativo dinâmico, ganhando experiência prática na construção, manutenção e otimização de pipelines de dados. Sou motivado por desafios técnicos e busco constantemente aprender e aplicar novas tecnologias para transformar dados em soluções de negócio de alto impacto.
