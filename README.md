@@ -11,7 +11,6 @@ Data Engineering Intern @ Localiza&Co | Estudante de Sistemas de Informação
 
 Estudante do oitavo semestre de Sistemas de Informação na PUC Minas, atualmente trabalhando como Estagiário de Engenharia de Dados na Localiza&Co.
 
-Nesta função, estou aplicando meus conhecimentos acadêmicos em um ambiente corporativo dinâmico, ganhando experiência prática na construção, manutenção e otimização de pipelines de dados. Sou motivado por desafios técnicos e busco constantemente aprender e aplicar novas tecnologias para transformar dados em soluções de negócio de alto impacto.
 
 🛠️ Tech Stack & Habilidades
 Estas são as tecnologias que utilizo no meu dia a dia e em projetos de estudo:
